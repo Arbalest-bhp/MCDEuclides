@@ -1,4 +1,5 @@
 //EuclidianMCD
+//Recursive Method
 
 public class EuclidesMCD{
 	public int gcd(int a, int b){
